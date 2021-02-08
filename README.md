@@ -26,15 +26,15 @@ $ pkg install python
 $ pkg install python2
 $ pip2 install requests
 $ pkg install git
-$ git clone https://github.com/James404-cyber/PAK10.git
+$ git clone https://github.com/James404-cyber/Pak10.git
 $ cd Pak10
-$ python2 PAK10.py
+$ python2 Pak10.py
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git; git clone https://github.com/James404-cyber/PAK10.git ; cd PAK10 ; python2 PAK10.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git; git clone https://github.com/James404-cyber/Pak10.git ; cd Pak10 ; python2 Pak10.py
 ```
  TOOL USER : (No Needed)</br>
  TOOL PASS : (No Needed</br>
